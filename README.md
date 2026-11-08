@@ -4,6 +4,8 @@
 
 # Run and deploy your AI Studio app
 
+Deploy Vercel: [text](https://pasjans-klasyczny-solitaire-cyan.vercel.app/)
+
 This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/5625179b-2dbe-4ef6-aea6-b364209f0cd4
