@@ -1,0 +1,6 @@
+{
+  "name": "Pasjans Klasyczny (Solitaire)",
+  "description": "Klasyczna gra w pasjansa (Klondike) z płynnym przeciąganiem kart, podpowiedziami, cofaniem ruchów, dźwiękiem i kaskadą zwycięstwa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
